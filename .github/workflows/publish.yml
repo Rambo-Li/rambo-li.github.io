@@ -19,9 +19,6 @@ jobs:
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
-      
-      - name: Deploy
-        uses: actions/deploy-pages@v4
         with:
           target: gh-pages
         env:
