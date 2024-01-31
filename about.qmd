@@ -1,5 +1,5 @@
 ---
-title: "CHUANYING LI"
+title: "About Me"
 image: profile.jpg
 about:
   template: solana
@@ -13,4 +13,4 @@ about:
 
 ---
 
-test again!
+Intellectually curious about fundmantal problems as well as everyday hassles. Currently, that fundamental problem is computer science and how to apply it to serve the world better. Everyday hassles include skiing, cooking, growing with your kids and partner, etc. 

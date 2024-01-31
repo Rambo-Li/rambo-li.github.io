@@ -1,8 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "First Blog - How I got here"
 date: "2024-01-27"
-categories: [news]
+date-modified: "2024-01-31"
+categories: [news, tools]
 ---
 
 This is the first post in a Quarto blog. Welcome!
