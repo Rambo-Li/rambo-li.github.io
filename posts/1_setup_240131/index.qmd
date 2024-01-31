@@ -5,8 +5,15 @@ date-modified: "2024-01-31"
 categories: [news, tools]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+By how I got here, I mean what tools I used to set up this web blog.
 
-![](thumbnail.jpg)
+The tool chain includes quarto, github and the underlying git protocol. When I analyze the tool chain, I like to consider how data flows through them. Here is an illustration.
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+![](illustration.svg)
+
+Quarto is an building tool that transforms plain text to HTML and can help with building a simple web site like blog. This process is very similar to compiling. That's probably why words like "render" and "build" are all over quarto documentation. This "building" or "rendering" can happen in local or remote, so I tried them both for better understanding.
+
+Instead of version control, Git is mainly for local and remote synchronization. Github is responsible for deploying the blog. It offers a html building library which is not used in my case.
+
+Setting it all up isn't as smooth as expected, and makes me wonder what's the principle of utilizing existing tools. I think of three things: dependency, entry point, and detour. I will discuss these in a later blog.
+
