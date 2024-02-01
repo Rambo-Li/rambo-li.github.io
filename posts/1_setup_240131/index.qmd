@@ -17,5 +17,5 @@ Instead of version control, Git is mainly for local and remote synchronization. 
 
 Setting it all up isn't as smooth as expected, and makes me wonder what's the principle of utilizing existing tools. I think of three things: dependency, entry point, and detour. I will discuss these in a later blog.
 
-Overall, I am not completely satisfied with the automation. My vision was that manual operation is limited to editing the text in an editor. Now I still need to do a bit extra such as creating a folder for each blog. I might update this tool chain in the future.
+Overall, I am not completely satisfied with the automation. My vision was that manual operation is limited to editing the text in an editor. Now I still need to do a bit extra such as creating a folder for each blog. I might update this tool chain in the future. 
 
