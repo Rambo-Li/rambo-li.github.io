@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Intellectually curious about fundamental problems as well as everyday hassles. Currently, that fundamental problem is computer science and how to apply it to serve the world better. Everyday hassles include skiing, cooking, growing with my wife and kids, etc."
+  },
+  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
@@ -12,13 +19,6 @@
     "title": "Rambo’s Blog",
     "section": "",
     "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 30, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Blog - How I got here\n\n\n\n\n\n\nnews\n\n\ntools\n\n\n\n\n\n\n\n\n\nJan 27, 2024\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Intellectually curious about fundamental problems as well as everyday hassles. Currently, that fundamental problem is computer science and how to apply it to serve the world better. Everyday hassles include skiing, cooking, growing with my wife and kids, etc."
   },
   {
     "objectID": "posts/1_setup_240131/index.html",
