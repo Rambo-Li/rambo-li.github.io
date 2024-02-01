@@ -7,11 +7,18 @@
     "text": "Intellectually curious about fundamental problems as well as everyday hassles. Currently, that fundamental problem is computer science and how to apply it to serve the world better. Everyday hassles include skiing, cooking, growing with my wife and kids, etc."
   },
   {
+    "objectID": "posts/2_OTC_240201/index.html",
+    "href": "posts/2_OTC_240201/index.html",
+    "title": "New Grad to Professional (part 1)",
+    "section": "",
+    "text": "Since I started looking for a job, I find that there is a gap between the academic training and the professional requirements. I think this gap consists of two parts: one in the use of off-shelf products, another is the deployment process. In this blog, I want to speak about the former.\nAs a student, most of the work is done with bare-bone programming language and standard libraries. In the rare case of a massive, battery-included, mature production library, you only need a tiny bit of it. However, in the professional world, most of work involves with these mature libraries or products, and you are going to touch most of the nitty-gritties.\nEach tool of course has its usage. But I think there are something in common when it comes to utilizing a tool, specifically dependency, entry point, and detour.\nDependency\nSome tools come with all-in-one installation, while others requires prerequisites or extensions. Requirement of data format or folder structure can also be viewed as a dependency. Getting the dependencies right can be seriously tricky when the documentation is incorrect or missing.\nEntry point\nA mature tool needs to consider a lot of scenarios, known as complexity. Handling the complexity, or robust, is a deeply desired characteristic. To do that, the tool needs to be designed in a way that accepts all possible input, which means it might offer multiple entry points. This usually makes the tool harder to start with because you would think your use case is straightforward and the way you use the tool should be straightforward too, and in reality, it is not. Tools like git needs to handle time difference, branch difference, location difference, so sometimes you really need to think about how to pass your data to it to get what you want.\nConfiguration can be thought as entry options too. You configure is how you enter the tool.\nDetour\nSome scenarios overlap so the solutions a tool offer overlap too. This could drain your mental energy as well. What is the best or fastest way to do it? What are the implications if I chose this way? Which way helps more in the future? The impact of different choices is often in brevity or not mentioned at all in documentation. This is the easiest and hardest problem of the three. It is easy because you only need one way to work, while it is hard because you need to know all ways to truly understand them.\nIn addition to these three, if you want to be able to debug it when something goes wrong, you need to understand how data flows underneath."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Rambo’s Blog",
     "section": "",
-    "text": "First Blog - How I got here\n\n\n\n\n\n\nnews\n\n\ntools\n\n\n\n\n\n\n\n\n\nJan 27, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "New Grad to Professional (part 1)\n\n\n\n\n\n\ntools\n\n\ncareer\n\n\n\n\n\n\n\n\n\nJan 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Blog - How I got here\n\n\n\n\n\n\nnews\n\n\ntools\n\n\n\n\n\n\n\n\n\nJan 27, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/1_setup_240131/index.html",
