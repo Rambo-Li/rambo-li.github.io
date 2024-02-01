@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rambo’s Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 30, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Blog - How I got here\n\n\n\n\n\n\nnews\n\n\ntools\n\n\n\n\n\n\n\n\n\nJan 27, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Intellectually curious about fundamental problems as well as everyday hassles. Currently, that fundamental problem is computer science and how to apply it to serve the world better. Everyday hassles include skiing, cooking, growing with my wife and kids, etc."
+  },
+  {
+    "objectID": "posts/1_setup_240131/index.html",
+    "href": "posts/1_setup_240131/index.html",
+    "title": "First Blog - How I got here",
+    "section": "",
+    "text": "By how I got here, I mean what tools I used to set up this web blog.\nThe tool chain includes quarto, github and the underlying git protocol. When I analyze the tool chain, I like to consider how data flows through them. Here is an illustration.\n\nQuarto is an building tool that transforms plain text to HTML and can help with building a simple web site like blog. This process is very similar to compiling. That’s probably why words like “render” and “build” are all over quarto documentation. This “building” or “rendering” can happen in local or remote, so I tried them both for better understanding.\nInstead of version control, Git is mainly for local and remote synchronization. Github is responsible for deploying the blog. It offers a html building library which is not used in my case.\nSetting it all up isn’t as smooth as expected, and makes me wonder what’s the principle of utilizing existing tools. I think of three things: dependency, entry point, and detour. I will discuss these in a later blog.\nOverall, I am not completely satisfied with the automation. My vision was that manual operation is limited to editing the text in an editor. Now I still need to do a bit extra such as creating a folder for each blog. I might update this tool chain in the future."
+  }
+]
