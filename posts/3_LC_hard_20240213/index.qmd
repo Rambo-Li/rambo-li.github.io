@@ -1,0 +1,24 @@
+---
+title: "Leetcode Hard Problems"
+date: "2024-02-13"
+date-modified: "2024-02-13"
+categories: [Algorithm]
+---
+
+I've been grinding Leetcode for some time. Medium and easy problems are not challenging anymore and my focus now is hard.
+
+The reasons these problems are hard are from three aspects:
+1. The underlying data structure,
+2. The scenarios that the data structure needs to be updated,
+3. The updating rule.
+
+The correct way of dismantling the problem is crucial. A wrong way of approaching the problems won't give you a solution  
+satisfies all three aspects. The direction for medium and easy problems are obvious while hards are mostly vague.
+
+My methodology to solve the hards is as follows:
+1. Poke the problem with brutal-force or come up with a top-level direction
+2. Test the chosen direction in terms of the three aspects
+3. If something doesn't come together, likely the direction is wrong and a new way of approaching is needed.
+
+Doing Leetcode hard is fun but very time-consuming. A problem can easily take several hours. Base on current situation, 
+I will shift my priority to learning new tools, limiting at most two hard problems a week.
