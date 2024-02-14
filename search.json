@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts/3_LC_hard_20240213/index.html",
+    "href": "posts/3_LC_hard_20240213/index.html",
+    "title": "Leetcode Hard Problems",
+    "section": "",
+    "text": "I’ve been grinding Leetcode for some time. Medium and easy problems are not challenging anymore and my focus now is hard.\nThe reasons these problems are hard are from three aspects: 1. The underlying data structure, 2. The scenarios that the data structure needs to be updated, 3. The updating rule.\nThe correct way of dismantling the problem is crucial. A wrong way of approaching the problems won’t give you a solution\nsatisfies all three aspects. The direction for medium and easy problems are obvious while hards are mostly vague.\nMy methodology to solve the hards is as follows: 1. Poke the problem with brutal-force or come up with a top-level direction 2. Test the chosen direction in terms of the three aspects 3. If something doesn’t come together, likely the direction is wrong and a new way of approaching is needed.\nDoing Leetcode hard is fun but very time-consuming. A problem can easily take several hours. Base on current situation, I will shift my priority to learning new tools, limiting at most two hard problems a week."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -11,7 +18,7 @@
     "href": "index.html",
     "title": "Rambo’s Blog",
     "section": "",
-    "text": "First Blog - How I got here\n\n\n\n\n\n\nnews\n\n\ntools\n\n\n\n\n\n\n\n\n\nJan 27, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Leetcode Hard Problems\n\n\n\n\n\n\nAlgorithm\n\n\n\n\n\n\n\n\n\nFeb 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Blog - How I got here\n\n\n\n\n\n\nnews\n\n\ntools\n\n\n\n\n\n\n\n\n\nJan 27, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/1_setup_240131/index.html",
