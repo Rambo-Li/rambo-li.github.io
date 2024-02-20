@@ -3,7 +3,6 @@ title: "New Grad to Pro (part 1 - OTS Tools)"
 date: "2024-01-30"
 date-modified: "2024-02-01"
 categories: [tools, career]
-draft: "False"
 ---
 
 Since I started looking for a job, I find that there is a gap between the academic training and the professional requirements. I think this gap consists of two parts: one in the use of off-shelf products, another is the deployment process. In this blog, I want to speak about the former.
